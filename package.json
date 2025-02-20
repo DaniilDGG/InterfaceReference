@@ -1,0 +1,19 @@
+{
+  "name": "com.dark_dgg.interface-reference",
+  "version": "1.0.0",
+  "displayName": "Interface Reference",
+  "description": "A package for serializing references to interfaces",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "licensesUrl": "https://github.com/DaniilDGG/InterfaceReference/blob/main/LICENSE",
+  "keywords": [
+    "Interface",
+    "Reference",
+    "dgg"
+  ],
+  "author": {
+    "name": "Dark DGG",
+    "email": "darkgamesdgg2021@gmail.com",
+    "url": "https://github.com/DaniilDGG"
+  }
+}

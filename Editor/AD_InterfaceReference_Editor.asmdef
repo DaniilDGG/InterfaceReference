@@ -1,0 +1,18 @@
+{
+    "name": "AD_InterfaceReference_Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a294446f6bfa1284f9f8cc42c0572b11"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
